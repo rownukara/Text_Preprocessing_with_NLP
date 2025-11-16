@@ -1,4 +1,4 @@
-Text preprocessing Technoques:
+Text preprocessing Techniques:
 1.Lower Casing
 2.Stopwords Removal
 3.Regular expression(regex)
